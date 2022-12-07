@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5201025454040c0b09595c244175064440151d78752d22627d2f4a66e4e1656d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 00090156005051585e0c5d7613200744434e1d7d29797e66757c4a30e4b5626f
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5a0104545c515a5e5a0f082346250644454e497f792b2765292a1b64e6b2326c
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 025207020651590e5f5e5e7342720744414e4f7d287f7f667a7d4e6ae0b4303d
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5109005600055d0b0b5b597a42740944444e4f2f2e2b70312f7c1e61e0b5666f
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 500857565103510d0c0a08201326594417151b7f2f297e357e7c4e66e3e56339
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 06550c5404570a0b5a570f24117b0f44444e4c7f7d7d7766757c4935b3e46139
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
